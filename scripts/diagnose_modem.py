@@ -31,3 +31,4 @@ if baseband and "N960F" in baseband:
 else:
     print("[FAIL] Baseband is NULL. TrustZone / EFS reflash required.")
 print("=" * 60)
+

@@ -26,3 +26,4 @@ for part_name, out_file in partitions:
 print("=" * 60)
 print("[SUCCESS] All core NVRAM images securely backed up to backup_data/")
 print("=" * 60)
+
